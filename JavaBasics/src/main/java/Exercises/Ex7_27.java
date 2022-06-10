@@ -2,8 +2,6 @@ package Exercises;
 
 //Написать программу, которая обменивает две переменные значениями. Вывести значения переменных на экран
 
-import java.util.Scanner;
-
 public class Ex7_27 {
     public static void main(String[] args) {
         int a = 5;
