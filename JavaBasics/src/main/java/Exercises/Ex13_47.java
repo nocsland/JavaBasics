@@ -14,7 +14,7 @@ public class Ex13_47 {
         String password = "пароль";
         Scanner scanner = new Scanner(System.in);
         String userPassword = scanner.nextLine();
-        if (userPassword.equals(password)){
+        if (userPassword.equals(password)) {
             System.out.println("Входите");
         } else System.out.println("Доступ запрещен");
     }
