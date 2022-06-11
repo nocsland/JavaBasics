@@ -9,7 +9,7 @@ public class Ex21_76 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         String string = scanner.nextLine().toLowerCase().replace(" ", "");
-        if (string.equals(reverseString(string))){
+        if (string.equals(reverseString(string))) {
             System.out.println("да");
         } else System.out.println("нет");
     }

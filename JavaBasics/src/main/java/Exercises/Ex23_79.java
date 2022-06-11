@@ -12,8 +12,8 @@ public class Ex23_79 {
         Scanner scanner = new Scanner(System.in);
         String string = scanner.nextLine();
         int index = string.indexOf("#");
-        if (index != -1){
-            System.out.println(string.substring(0,index));
+        if (index != -1) {
+            System.out.println(string.substring(0, index));
         } else System.out.println(string);
 
     }
