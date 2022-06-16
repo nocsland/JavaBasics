@@ -1,6 +1,6 @@
 package Exercises;
 
-//141. Простой каталог товаров.
+//141. Улучшить простой каталог товаров.
 //улучшите программу из предыдущей задачи ex40_140:
 
 //количество товара после ввода преобразуйте в тип int. Проверять правильность ввода пользователя не нужно. Понадеемся,
@@ -11,6 +11,7 @@ package Exercises;
 
 import java.util.HashMap;
 import java.util.Scanner;
+
 
 public class Ex41_141 {
     public static void main(String[] args) {
@@ -29,8 +30,5 @@ public class Ex41_141 {
             System.out.println(key + " : " + value);
 
         }
-
     }
-
-
 }
