@@ -1,4 +1,4 @@
-package ExercisesFromJavaRush;
+package ExercisesFromJavaRush.Level4;
 
 /*
 Среднее арифметическое из 5 введенных чисел

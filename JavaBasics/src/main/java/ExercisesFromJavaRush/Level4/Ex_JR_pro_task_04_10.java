@@ -1,4 +1,4 @@
-package ExercisesFromJavaRush;
+package ExercisesFromJavaRush.Level4;
 
 /* Второе минимальное число из введенных
 Считывать целые числа с клавиатуры до тех пор, пока не будет введено что-то другое: например, строка или символ.
@@ -22,7 +22,7 @@ public class Ex_JR_pro_task_04_10 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         int firstMinimum = Integer.MAX_VALUE;
-        int secondMinimum = firstMinimum;
+        int secondMinimum = Integer.MAX_VALUE;
         while (scanner.hasNextInt()) {
             int number = scanner.nextInt();
             if (number < firstMinimum){

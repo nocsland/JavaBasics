@@ -1,4 +1,4 @@
-package ExercisesFromJavaRush;
+package ExercisesFromJavaRush.Level4;
 
 /* Диггер (1)
 Вывести на экран слои планеты. Для реализации этой задачи используй вложенные циклы for.

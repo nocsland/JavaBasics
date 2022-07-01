@@ -1,4 +1,4 @@
-package ExercisesFromJavaRush;
+package ExercisesFromJavaRush.Level4;
 
 /* Диггер (2)
 Теперь нужно отобразить Амиго и роботов, зараженных галабагами.

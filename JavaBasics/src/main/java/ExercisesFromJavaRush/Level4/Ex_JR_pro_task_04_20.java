@@ -1,4 +1,4 @@
-package ExercisesFromJavaRush;
+package ExercisesFromJavaRush.Level4;
 
 // В этом методе в бесконечном цикле считываются целые числа с клавиатуры. Каждое считанное число сравнивается с
 // входящим параметром метода checkNumber.

@@ -1,4 +1,4 @@
-package ExercisesFromJavaRush;
+package ExercisesFromJavaRush.Level4;
 
 //Подсчитать сумму четных чисел в диапазоне от 1 до 100 включительно с использованием цикла while.
 //Требования:

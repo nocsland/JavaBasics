@@ -1,4 +1,4 @@
-package ExercisesFromJavaRush;
+package ExercisesFromJavaRush.Level4;
 
 import java.util.Scanner;
 
@@ -9,7 +9,7 @@ import java.util.Scanner;
 //Необходимо посчитать сумму введенных целых чисел и вывести её на экран, если пользователь ввел стоп слово.
 //В программе необходимо использовать цикл while.
 
-public class Ex_JavaRushProTask0403 {
+public class JRProTask0403 {
     public static void main(String[] args) {
         boolean isEnter = false;
         int result = 0;

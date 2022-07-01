@@ -1,4 +1,4 @@
-package ExercisesFromJavaRush;
+package ExercisesFromJavaRush.Level4;
 
 /* Диггер (4)
 Наконец Амиго добрался до ядра планеты. Осталось дело за малым — уничтожить зараженных галабагами роботов.

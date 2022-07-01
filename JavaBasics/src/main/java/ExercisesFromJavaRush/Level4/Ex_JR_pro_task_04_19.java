@@ -1,4 +1,4 @@
-package ExercisesFromJavaRush;
+package ExercisesFromJavaRush.Level4;
 
 // Необходимо считать с клавиатуры число больше 0 и вывести в консоль сумму всех чисел от 0 до введенного числа
 // включительно. Для этого используй цикл while.

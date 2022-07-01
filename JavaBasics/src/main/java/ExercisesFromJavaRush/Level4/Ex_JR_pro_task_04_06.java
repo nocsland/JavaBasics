@@ -1,4 +1,4 @@
-package ExercisesFromJavaRush;
+package ExercisesFromJavaRush.Level4;
 
 //Вводим данные с клавиатуры и сразу их выводим на экран, пока не будет введено слово "enough".
 //Слово "enough" выводить не нужно.

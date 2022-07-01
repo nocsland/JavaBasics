@@ -1,4 +1,4 @@
-package ExercisesFromJavaRush;
+package ExercisesFromJavaRush.Level4;
 
 /*
 Площадь круга.
@@ -18,13 +18,13 @@ package ExercisesFromJavaRush;
 
 import java.util.Scanner;
 
-public class Ex_JR_pro_task_04_15 {
+public class Ex_JR_pro_task_04_16 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
-        int square;
-        int radius = scanner.nextInt();
-        square = (int) (3.14 * radius * radius);
-        System.out.println(square);
+        int colaQuantity = scanner.nextInt();
+        int howManyPeople = scanner.nextInt();
+        double result = (1.0 * colaQuantity / howManyPeople);
+        System.out.println(result);
 
     }
 }

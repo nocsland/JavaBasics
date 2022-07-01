@@ -1,4 +1,4 @@
-package ExercisesFromJavaRush;
+package ExercisesFromJavaRush.Level4;
 
 /*
 Напиши программу, которая считывает с клавиатуры целые числа и выводит их на экран, пока не введено число, кратное 10.

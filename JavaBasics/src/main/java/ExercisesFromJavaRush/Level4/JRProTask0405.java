@@ -1,4 +1,4 @@
-package ExercisesFromJavaRush;
+package ExercisesFromJavaRush.Level4;
 
 // Используя вложенные циклы while (цикл в цикле) выведи на экран незаполненный прямоугольник (его контур) размером 10
 // (высота) на 20 (ширина) из букв 'Б'.Незаполненная часть состоит из пробелов.
@@ -8,7 +8,7 @@ package ExercisesFromJavaRush;
 //В программе необходимо использовать вложенные циклы while (цикл в цикле).
 //Вывод на экран должен происходить в цикле while.
 
-public class Ex_JR_pro_task_04_05 {
+public class JRProTask0405 {
     public static void main(String[] args) {
         int n = 0;
         while (n < 10) {
