@@ -25,7 +25,6 @@ public class Ex_JR_pro_task_04_12 {
         for (int i = start; i < end; i++){
             if(i % multiple != 0){
                 continue;
-
             }else sum += i;
         }
 
